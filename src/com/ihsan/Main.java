@@ -10,15 +10,15 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
 //        int[] firstArray = sortArrayInt(generateIntArray(10));
-        int[] secondArray = {6,4,4,2,12};
-        int[] copyArray = Arrays.copyOf(secondArray, secondArray.length);
+//        int[] secondArray = {6,4,4,2,12};
+//        int[] copyArray = Arrays.copyOf(secondArray, secondArray.length);
 
 //        secondArray[0] = 2;
 //        copyArray[0] = 3;
 
-        int smallestElementInArray1 = findSmallest(secondArray);
+//        int smallestElementInArray1 = findSmallest(secondArray);
 
-        System.out.println(smallestElementInArray1);
+//        System.out.println(smallestElementInArray1);
 
 
 
